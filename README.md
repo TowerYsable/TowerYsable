@@ -3,6 +3,7 @@
   - 语音识别
   - 深度学习模型部署
   - Android开发
+- [个人博客园](https://www.cnblogs.com/Towerb)
 
 <!---
 TowerYsable/TowerYsable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
