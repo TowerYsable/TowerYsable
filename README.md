@@ -1,6 +1,6 @@
 - 👋 见笑了，我是一个小垃圾
 - 👀 学习ing
-  - 语音识别
+  - 语音识别、语音增强
   - 深度学习模型部署
   - Android开发
 - [个人博客园](https://www.cnblogs.com/Towerb)
