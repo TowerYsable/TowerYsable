@@ -8,7 +8,7 @@
 - [个人博客园](https://www.cnblogs.com/Towerb)
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TowerYsable" alt="TowerYsable" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TowerYsable" alt="TowerYsable" />
 
 <!---
 ![Tower's github stats](https://github-readme-stats.vercel.app/api?username=TowerYsable)
